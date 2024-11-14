@@ -1,6 +1,6 @@
 import bannerImg from "../assets/Background.jpg";
 import DreamJob from "../Components/DreamJob";
-import DrivingGlobal from "../Components/Drivingglobal";
+import DrivingGlobal from "../Components/Drivingglobal.jsx";
 import GlobalWorkforce from "../Components/GlobalWorkforce";
 import HereToWork from "../Components/HereToWork";
 import QuickLink from "../Components/QuickLink";
